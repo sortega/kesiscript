@@ -5,5 +5,9 @@ Sandbox-like environment to teach JavaScript first steps. [Live demo](https://so
 ## How to test locally?
 
 ```bash
-python3 -m http.server
+npm start
 ```
+
+## How to use?
+
+TODO
